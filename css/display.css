@@ -1,0 +1,48 @@
+.dispdata {
+	width:70%;
+	height:auto;
+	background: rbga(100,100,100,0.5); 
+	position: absolute;
+	top: 25%;
+	left: 20%;
+}
+
+
+.he2 {
+  color: #ffffff;
+  font-family: 'open sans condensed';
+  font-size: 1.35em;
+  display: block;
+  background: #2a2a2a;
+  width: 100%;
+  text-transform: uppercase;
+  padding: .75em 1em .75em 1.5em;
+  box-shadow: inset 0px 1px 1px rgba(255, 255, 255, 0.05);
+  border: 1px solid #1d1d1d;
+  margin: 0;
+  font-weight: 200;
+}
+
+.tabcs{	
+    
+	height:100%;
+	color: white;
+	text-align: left;
+	font-size: 20px;
+	margin-top: 13px;
+	display: block;
+    background-color: #0000008a;
+    width: 100%;
+    padding: 1em
+}
+.tabcs td{
+	width:22%;
+	padding:5px;
+}
+
+.tabcs th{
+	width:19%;
+	font-size:23px;
+	color: #FFFFBC;
+	padding-bottom:12px;
+}
